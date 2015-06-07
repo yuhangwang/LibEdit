@@ -1,0 +1,17 @@
+Making check in src
+make[1]: Entering directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/src'
+make  check-am
+make[2]: Entering directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/src'
+make[2]: Nothing to be done for `check-am'.
+make[2]: Leaving directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/src'
+make[1]: Leaving directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/src'
+Making check in examples
+make[1]: Entering directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/examples'
+make[1]: Nothing to be done for `check'.
+make[1]: Leaving directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/examples'
+Making check in doc
+make[1]: Entering directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/doc'
+make[1]: Nothing to be done for `check'.
+make[1]: Leaving directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1/doc'
+make[1]: Entering directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1'
+make[1]: Leaving directory `/Scr/scr-test-steven/Programs/Libedit/libedit-3.1'
